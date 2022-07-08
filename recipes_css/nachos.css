@@ -1,0 +1,11 @@
+html {
+    background-color: yellow;
+}
+
+h1 {
+    border: double;
+    width: 100px;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
