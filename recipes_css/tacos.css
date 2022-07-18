@@ -1,0 +1,9 @@
+html {
+    background-color: green;
+}
+
+h1 {
+    border: double;
+    padding: 5px;
+    width: 200px;
+}
